@@ -6,7 +6,7 @@ Khi nghe các bạn pitch bài toán, tôi ấn tượng với góc nhìn đa d�
 
 - Họ và tên: Lê Thanh Tình
 - Mã học viên: 2A202602449
-- Nhóm: Nhóm 1
+- Nhóm: Nhóm EQ200
 - Candidate problem nhóm chọn: AI Workflow đếm khuẩn lạc tự động trên đĩa Petri trong phòng thí nghiệm vi sinh bằng Watershed kết hợp AI Vision, hỗ trợ giao diện Overlay chấm màu để NCV kiểm tra nhanh (click ±1) và tự động xuất kết quả Excel.
 
 ---
